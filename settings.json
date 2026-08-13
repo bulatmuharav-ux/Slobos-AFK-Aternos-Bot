@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LWWOFS1.aternos.me:43753",
+    "ip": "LWWOFS1.aternos.me",
     "port": 43753,
     "version": "",
     "try-creative": false
